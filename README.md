@@ -27,3 +27,11 @@ Morse Code.
 
 Sorting Numbers.
   - Create a Sort_and_Mean function that sorts a list of numbers that are passed to it and print the reordered list to the screen. It should also calculate and return the mean value of the list.
+
+Pig Latin.
+  - Create a program that converts sentence input into piglatin.
+  - If a word begins with a consonant all consonants before the first vowel are moved to the end of the word and the letters "ay" are then added to the end. e.g. "coin" becomes "oincay" and "flute" becomes "uteflay".
+  - If a word begins with a vowel then "yay" is added to the end. e.g."egg" becomes "eggyay" and "oak" becomes "oakyay".
+  
+Bubble Sort.
+  - Use the Bubble sort algorithm. Once the sort is complete, the original unsorted list and the sorted list should be displayed along with the number of passes it required to completely sort the list, 
