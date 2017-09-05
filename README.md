@@ -7,3 +7,8 @@ to explain it in terms the student would be able to understand.
 
 For the sake of the answers to not be copied from other potential and future students
 of that online course, I will not be mentioning the school's name.
+
+Projects:
+Temperature Conversion.
+  - Had to calculate Celcisus to Fahrenheit and vice versa.
+  - Had to create an input and output the conversion. 
