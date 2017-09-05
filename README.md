@@ -34,4 +34,4 @@ Pig Latin.
   - If a word begins with a vowel then "yay" is added to the end. e.g."egg" becomes "eggyay" and "oak" becomes "oakyay".
   
 Bubble Sort.
-  - Use the Bubble sort algorithm. Once the sort is complete, the original unsorted list and the sorted list should be displayed along with the number of passes it required to completely sort the list, 
+  - Use the Bubble sort algorithm. Once the sort is complete, the original unsorted list and the sorted list should be displayed along with the number of passes it required to completely sort the list, 
