@@ -14,6 +14,6 @@ Temperature Conversion.
   - Had to calculate Celcisus to Fahrenheit and vice versa.
   - Had to create an input and output the conversion. 
   
-Georgian Calendar.
+Gregorian Calendar.
   - Create a program that calculates whether the input year is a Martian leap year or not.
   - Martian Leap Years are ddd years and years that are divisible by 10.
