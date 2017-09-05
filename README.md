@@ -17,3 +17,13 @@ Temperature Conversion.
 Gregorian Calendar.
   - Create a program that calculates whether the input year is a Martian leap year or not.
   - Martian Leap Years are ddd years and years that are divisible by 10.
+
+Interactive Temperature Conversion.
+  - Adding to the previous Temperature Conversion program.
+  - Ask the user to pick either C to F or vice versa
+  
+Morse Code.
+  - Program in Python so that the Raspberry Pi blinks 'Hello World' in Morse Code. 
+
+Sorting Numbers.
+  - Create a Sort_and_Mean function that sorts a list of numbers that are passed to it and print the reordered list to the screen. It should also calculate and return the mean value of the list.
